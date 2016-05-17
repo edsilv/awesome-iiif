@@ -44,7 +44,7 @@ These shims allow you to use an image server that does not currently support III
 - [Diva.js](https://ddmal.github.io/diva.js/) IIIF image viewer optimized for speed and flexibility
 
 ## Presentation API Libraries
-- [Manifesto](https://github.com/IIIF/manifesto) JavaScript library for both browser and server
+- [Manifesto](https://github.com/UniversalViewer/manifesto) JavaScript library for both browser and server
 - [O'Sullivan](https://github.com/IIIF/osullivan) Ruby API for creating IIIF manifests
 
 ## Presentation API Shims
