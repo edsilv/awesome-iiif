@@ -225,6 +225,7 @@ Blog posts, press releases, and other writing about IIIF.
 - [Exquisite Corpse](https://github.com/harvardartmuseums/exquisite-iiif-demo) - A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.
 - [3D trade cards explorer](http://labs.cogapp.com/tc/) - A 3D environment that displays nineteenth-century trade cards from the [Boston Public Library](https://www.digitalcommonwealth.org/collections/commonwealth:gq67jz045). Designed to be viewed on a mobile phone, ideally with Google Cardboard. Created using three.js by Jon White, Cogapp.
 - [Sleep Stories](http://bitly.com/wcquilt) - an experiment with the W3C Web Annotation Data Model. The  annotations present a sequence of stories associated with a large image. Optimised for mobile. Created by Andrew Dyton and Stephen Fraser, Digirati, for Wellcome Collection.
+- [Ambient Archive](https://www.youtube.com/watch?v=itFJDsxI2xs) - This demonstration shows a holographic exhibition being created using IIIF content. Combined with a mobile companion app built with universalviewer.io, the user can add artefacts to their personal collection, which can be accessed via the web.
 
 ## Community
 
